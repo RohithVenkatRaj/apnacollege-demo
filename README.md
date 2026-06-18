@@ -1,2 +1,3 @@
 # apnacollege-demo
-this is my first worked repository
+This is my first worked repository
+Author - Rohith vr
